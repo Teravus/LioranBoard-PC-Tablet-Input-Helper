@@ -19,6 +19,7 @@ Built using the .NET framework version 4.7.2.   You can download that [here](dot
 
 ## Using The Program
 When you launch this tool, it will ask for permissions elevation.   You will then be presented with a screen that gives you the steps.   Follow the easy on-screen steps.  Once you have completed the steps and the status boxes are green, you can use your touch screen to tap LioranBoard Stream Deck (PC) buttons.   If you would like to switch to your mouse, make sure to click the 'Disable' button in step 3 so you don't click your LioranBoard buttons twice.
+![Screen Shot of this tool](https://github.com/Teravus/LioranBoard-PC-Tablet-Input-Helper/raw/main/ScreenShot.PNG)
 
 ## Touch Accuracy Setting
 

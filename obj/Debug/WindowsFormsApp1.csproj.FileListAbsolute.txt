@@ -1,0 +1,10 @@
+F:\downloads\WinTouch.NET-master\WinTouch.NET-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+F:\downloads\WinTouch.NET-master\WinTouch.NET-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+F:\downloads\WinTouch.NET-master\WinTouch.NET-master\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+F:\downloads\WinTouch.NET-master\WinTouch.NET-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+F:\downloads\WinTouch.NET-master\WinTouch.NET-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+F:\downloads\WinTouch.NET-master\WinTouch.NET-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+F:\downloads\WinTouch.NET-master\WinTouch.NET-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+F:\downloads\WinTouch.NET-master\WinTouch.NET-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+F:\downloads\WinTouch.NET-master\WinTouch.NET-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+F:\downloads\WinTouch.NET-master\WinTouch.NET-master\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache

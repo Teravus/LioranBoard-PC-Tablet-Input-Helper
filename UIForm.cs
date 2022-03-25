@@ -250,12 +250,29 @@ namespace LioranBoardTabletInputStaller
         private void btnGetLioranBoardStreamDeckWindow_Click(object sender, EventArgs e)
         {
             IntPtr hWnd = IntPtr.Zero;
-            foreach (Process pList in Process.GetProcesses())
+            var processList = Process.GetProcesses();
+            
+            // Look for LioranBoard 2
+            foreach (Process pList in processList)
             {
+                if (pList.MainWindowTitle.Contains("Lioranboard 2 Official Streamdeck"))
+                {
+                    hWnd = pList.MainWindowHandle;
+                }
+
+            }
+            // If we found Lioranboard 2.    Go on.    Otherwise Look for LioranBoard 1
+            foreach (Process pList in processList)
+            {
+                if (hWnd != IntPtr.Zero)
+                {
+                    break;
+                }
                 if (pList.MainWindowTitle.Contains("LioranBoard Stream Deck"))
                 {
                     hWnd = pList.MainWindowHandle;
                 }
+                
             }
             LioranBoardWindowHandle = hWnd;
             if (LioranBoardWindowHandle == IntPtr.Zero)
